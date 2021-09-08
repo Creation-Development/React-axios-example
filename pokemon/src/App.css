@@ -1,0 +1,20 @@
+.main{
+  background:linear-gradient(115deg,rgb(181, 247, 0),rgb(34, 245, 157),aqua);
+  /* height: 750px; */
+}
+.card{
+  background-color:rgba(0, 0, 0, 0.5) !important ;
+  color: white !important;
+}
+.btn{
+  background:linear-gradient(115deg,rgb(181, 247, 0),rgb(34, 245, 157),aqua);
+  color: black !important;
+  border: 2px solid black !important;
+}
+.btn:hover{
+  background: transparent !important;
+  color: white !important;
+}
+.navi{
+  background:transparent;
+}
