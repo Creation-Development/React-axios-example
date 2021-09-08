@@ -1,0 +1,14 @@
+.main{
+  background-color: yellowgreen !important;
+  height: 1460px !important;
+}
+.col-2{
+  background-color: bisque !important;
+  width: 23% !important;
+}
+.col-3{
+  background-color: bisque;
+}
+.state{
+  margin-left: 10% !important;
+}
