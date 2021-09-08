@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+.bg{
+  background:linear-gradient(120deg, rgb(155, 202, 236),rgb(241, 241, 241));
+  height: 1020px ;
+  font-family: 'Montserrat', sans-serif ;
+}
+.main-head{
+  font-weight: 900 !important;
+}
+.row{
+  margin-left:14% !important;
+  margin-right: -10px !important;
+}
+h6, h5{
+  font-weight: 900 !important;
+}
